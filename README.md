@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEmGBKaFjiQvwHcIyUsTajvOakA6AJVZ5lgw&s" width="200" alt="Lapce Code Editor application icon"><br>
-<a href="https://mac-share-apps.github.io/.github/lapce-code-editor">
+<a href="https://ysids-apps-hub.github.io/.github/lapce-code-editor">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Lapce Code Editor macOS product page">
 </a><br><br>
 <div align="center">
